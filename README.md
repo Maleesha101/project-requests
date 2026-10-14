@@ -12,7 +12,7 @@ You do **not** need any Git knowledge or terminal commands to request a reposito
 
 <div align="center">
   <br>
-  <a href="https://github.com/SCSSA-UoK/project-requests/issues/new?template=request.yml">
+  <a href="https://github.com/Maleesha101/project-requests/issues/new?template=request.yml">
     <img src="https://img.shields.io/badge/👉_CLICK_HERE_TO_REQUEST_A_REPOSITORY-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Request Repository" width="420">
   </a>
   <br><br>
